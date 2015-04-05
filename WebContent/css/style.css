@@ -1,20 +1,30 @@
 header {
-  font-size: 40px;
-  padding: 20px;
-  background: #f1f1f1;
-  margin-bottom: 30px;
+	font-size: 40px;
+	padding: 20px;
+	background: #f1f1f1;
+	margin-bottom: 30px;
 }
+
 header .fa-stack {
-  font-size: 20px;
+	font-size: 20px;
 }
+
 header .fa-leaf {
-  color: #62922b;
+	color: #62922b;
 }
+
 header .fa-car {
-  opacity: 1;
-  color: #fff;
+	opacity: 1;
+	color: #fff;
 }
 
 button .fa {
 	margin-right: 5px;
+}
+
+#map-canvas {
+	height: 250px;
+	margin: 0;
+	padding: 0;
+	border: 1px solid #ccc;
 }

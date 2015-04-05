@@ -26,5 +26,5 @@ button .fa {
 	height: 400px;
 	margin: 0;
 	padding: 0;
-	border: 1px solid #ccc;
+	box-shadow: 0 0 7px #333;
 }
